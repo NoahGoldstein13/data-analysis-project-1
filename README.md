@@ -63,6 +63,6 @@ Weight vs MPG
 
 Technology in Vehicles
 
-1. Stability control is one of the earliest technologies in vehicles (since 1996) and has been added to more vehicles over time
-2. Backup cameras were added to cars in 1997 and continue to be added to more vehicles over time
-3. Parking aids were incorporated into vehicles in 2003 and have steadily been incorporated in more cars over time. 
+1. Stability control is one of the earliest technologies in vehicles (since 1996) and has been added to more vehicles over time, plateauing at 100% in 2012. 
+2. Backup cameras were added to cars in 2006 and continue to be added to more vehicles over time, peaking at 100% in 2019.We expect this trend to begin plateauing as well. 
+3. Parking aids were incorporated into vehicles in 2001 and have steadily been incorporated in more cars over time, although the slowest growing. 
