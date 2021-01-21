@@ -32,13 +32,15 @@ Our team was tasked with exploring a question of interest through detailed analy
 
 ## Summary of Findings
 ----------
-How cars have changed for consumers from 1996 to 2019 based on common car specifications?
+Access presentation slides: https://docs.google.com/presentation/d/1ssmOymnK_eSX_jYiLF1SLsjsx2sgYJTAcZq0LPRuwH8/edit?usp=sharing
 
-1. On average, cars have become steadily more expensive over time
-2. On average, gas mileage has improved over time despite a drop in effiency in 2008
-3. On average, cars have become heavier over time, despite a drop in average weight in 1998
+#### How have cars changed for consumers from 1996 to 2019 based on common car specifications?
 
-What is the relationship between car specifications for three vehicle styles (cars, trucks, vans)?
+1. On average, vehicles have steadily become more expensive over time nominally (expected)
+2. On average, cars have become heavier over time (unexpected)
+3. On average, vehicles have become more efficient in terms of MPG, despite the overall increase in weight
+
+#### What is the relationship between car specifications for three vehicle styles (cars, trucks, vans)?
 
 Retail Price vs Weight
 
